@@ -224,11 +224,3 @@ You can test the API using tools like [Postman](https://www.postman.com/) or [cu
   curl -X DELETE http://localhost:4000/posts/1
   ```
 
-## Notes
-
-- The data is stored in memory, so it will reset every time the server restarts.
-- This project is intended for learning purposes and does not include a database integration.
-
-## License
-
-This project is open-source and available unde
